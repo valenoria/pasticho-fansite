@@ -1,0 +1,28 @@
+body{
+  background: black;
+  background-image: linear-gradient(to bottom, black, rgba(255, 122, 89,0)), url("../files/pasticho_bg.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+h1{
+  color: white;
+  text-align: center;
+  font-size: 100px;
+}
+
+p{
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  text-shadow: 2px 2px 6px black;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dashed;
+  border-color: white;
+  border-width: 5px;
+  width: 80%;
+}
